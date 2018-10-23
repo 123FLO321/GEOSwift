@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import geos
 
 /**
  Linear referencing functions

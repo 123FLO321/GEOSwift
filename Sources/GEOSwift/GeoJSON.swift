@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import geos
 
 public enum GEOJSONParseError: Error {
     case invalidJSON
